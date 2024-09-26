@@ -1,6 +1,6 @@
 # Building the book "Building a Production Grade Web Application with Supabase"
 
-So far this up through Chapter 3. Includes the installation and UI shell using
+So far up through Chapter 3. Includes the installation and UI shell using
 Next.js
 
 ## Getting Started
